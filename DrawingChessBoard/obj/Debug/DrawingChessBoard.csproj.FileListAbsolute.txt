@@ -7,3 +7,30 @@ E:\Cloud Mail.Ru\Программирование\С#\WinForms\Новая пап
 E:\Cloud Mail.Ru\Программирование\С#\WinForms\Новая папка (2)\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csproj.GenerateResource.Cache
 E:\Cloud Mail.Ru\Программирование\С#\WinForms\Новая папка (2)\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.exe
 E:\Cloud Mail.Ru\Программирование\С#\WinForms\Новая папка (2)\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.exe.config
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.Form1.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.Properties.Resources.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_41_Chessborder_19.12.2016 — копия\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csproj.GenerateResource.Cache
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.exe.config
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.exe
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.pdb
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.exe
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.pdb
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csprojResolveAssemblyReference.cache
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.Form1.resources
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.Properties.Resources.resources
+D:\Ryabchenko\ \Cloud Mail.Ru\44 BrackOut\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csproj.GenerateResource.Cache
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.exe.config
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.exe
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.pdb
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.exe
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\bin\Debug\DrawingChessBoard.pdb
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.Form1.resources
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.Properties.Resources.resources
+E:\Cloud Mail.Ru\44 Checkers\DZ_Ryabchenko_42_ChessborderAndCheckers_20.12.2016\DrawingChessBoard\DrawingChessBoard\obj\Debug\DrawingChessBoard.csproj.GenerateResource.Cache
